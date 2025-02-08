@@ -2,10 +2,6 @@
 
 Welcome to my GitHub profile! Here, I share free, open source projects aimed at making life easier for developers and tech enthusiasts. Follow along to get notified about new tools and updates.
 
-## About Me
-
-I'm passionate about building practical software solutions that anyone can use. This space is dedicated solely to open source contributions - I'm not available for hire. My focus is on quality, simplicity, and community collaboration.
-
 ## Projects
 
 - **[Drop and Read](https://github.com/yani-/dropnread):**  
