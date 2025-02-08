@@ -2,21 +2,15 @@
 
 Welcome to my GitHub profile! Here, I share free, open source projects aimed at making life easier for developers and tech enthusiasts. Follow along to get notified about new tools and updates.
 
----
-
 ## About Me
 
 I'm passionate about building practical software solutions that anyone can use. This space is dedicated solely to open source contributions - I'm not available for hire. My focus is on quality, simplicity, and community collaboration.
-
----
 
 ## What to Expect
 
 - **Regular Updates:** I release new projects and updates frequently.
 - **Community-Driven:** Contributions, feedback, and collaboration are welcome.
 - **Useful Tools:** Each project is designed to solve common problems with practical, easy-to-use solutions.
-
----
 
 ## Featured Projects
 
@@ -29,8 +23,6 @@ I'm passionate about building practical software solutions that anyone can use. 
 - **[Before After](https://github.com/yani-/beforeafter):**  
   *A browser-based tool for comparing and combining before/after images. No server needed, runs entirely in your browser.*
 
----
-
 ## Technologies
 
 I primarily work with:
@@ -38,8 +30,6 @@ I primarily work with:
 - **Languages:** PHP, JavaScript, Python, GoLang, C++
 
 Feel free to explore the repositories to see how these technologies come together in my work.
-
----
 
 ## Connect
 
