@@ -4,14 +4,14 @@ Welcome to my GitHub profile! Here, I share free, open source projects aimed at 
 
 ## Projects
 
-- **[Drop and Read](https://github.com/yani-/dropnread):**  
-  *A web-based tool that helps prepare source code for Large Language Models (LLMs) by combining multiple files into a single text file. Perfect for when you need to share your codebase with AI models like GPT-4, Claude, or Gemini.*
+- **[Drop and Read](https://github.com/yani-/dropnread)**  
+  A web-based tool that helps prepare source code for Large Language Models (LLMs) by combining multiple files into a single text file. Perfect for when you need to share your codebase with AI models like GPT-4, Claude, or Gemini.
 
-- **[Windows NFS Manager](https://github.com/yani-/windows-nfs-manager):**  
-  *A simple GUI application for managing NFS drives on Windows. Mount, unmount, and monitor NFS shares with an intuitive interface - no command line needed.*
+- **[Windows NFS Manager](https://github.com/yani-/windows-nfs-manager)**  
+  A simple GUI application for managing NFS drives on Windows. Mount, unmount, and monitor NFS shares with an intuitive interface - no command line needed.
 
-- **[Before After](https://github.com/yani-/beforeafter):**  
-  *A browser-based tool for comparing and combining before/after images. No server needed, runs entirely in your browser.*
+- **[Before After](https://github.com/yani-/beforeafter)**  
+  A browser-based tool for comparing and combining before/after images. No server needed, runs entirely in your browser.
 
 ## Articles
 
