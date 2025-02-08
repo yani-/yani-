@@ -6,13 +6,7 @@ Welcome to my GitHub profile! Here, I share free, open source projects aimed at 
 
 I'm passionate about building practical software solutions that anyone can use. This space is dedicated solely to open source contributions - I'm not available for hire. My focus is on quality, simplicity, and community collaboration.
 
-## What to Expect
-
-- **Regular Updates:** I release new projects and updates frequently.
-- **Community-Driven:** Contributions, feedback, and collaboration are welcome.
-- **Useful Tools:** Each project is designed to solve common problems with practical, easy-to-use solutions.
-
-## Featured Projects
+## Projects
 
 - **[Drop and Read](https://github.com/yani-/dropnread):**  
   *A web-based tool that helps prepare source code for Large Language Models (LLMs) by combining multiple files into a single text file. Perfect for when you need to share your codebase with AI models like GPT-4, Claude, or Gemini.*
@@ -23,13 +17,14 @@ I'm passionate about building practical software solutions that anyone can use. 
 - **[Before After](https://github.com/yani-/beforeafter):**  
   *A browser-based tool for comparing and combining before/after images. No server needed, runs entirely in your browser.*
 
-## Technologies
+## Articles
 
-I primarily work with:
-
-- **Languages:** PHP, JavaScript, Python, GoLang, C++
-
-Feel free to explore the repositories to see how these technologies come together in my work.
+- [Setting up vast.ai for inference with Llama 2](https://medium.com/@yani/setting-up-vast-ai-for-inference-with-llama-2-f04efd31030?source=github-profile-page)
+- [Blender rendering on vast.ai](https://medium.com/@yani/blender-rendering-on-vast-ai-b77a20d1847d?source=github-profile-page)
+- [Cost comparison between AWS CloudFront and BunnyCDN](https://medium.com/@yani/cost-comparison-between-aws-cloudfront-and-bunnycdn-24af8f26c5d5?source=github-profile-page)
+- [7 Must-Know AWS Lambda tips](https://medium.com/@yani/6-must-know-aws-lambda-tips-4f2e89a03202?source=github-profile-page)
+- [PHP Code Sniffer with Docker](https://medium.com/@yani/php-code-sniffer-with-docker-aa6cc88584d8?source=github-profile-page)
+- [Two-way link with Docker Compose](https://medium.com/@yani/two-way-link-with-docker-compose-8e774887be41?source=github-profile-page)
 
 ## Connect
 
