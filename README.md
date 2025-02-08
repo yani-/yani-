@@ -1,4 +1,4 @@
-# Open Source Tools for Everyone
+# Open-source tools for everyone
 
 Welcome to my GitHub profile! Here, I share free, open source projects aimed at making life easier for developers and tech enthusiasts. Follow along to get notified about new tools and updates.
 
