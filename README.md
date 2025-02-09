@@ -15,6 +15,7 @@ Welcome to my GitHub profile! Here, I share free, open source projects aimed at 
 
 ## Articles
 
+- [Running WordPress on Flux Cloud: A Candid Review](https://open.substack.com/pub/yani3380/p/running-wordpress-on-flux-cloud-a?r=1yq6y3&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 - [Setting up vast.ai for inference with Llama 2](https://medium.com/@yani/setting-up-vast-ai-for-inference-with-llama-2-f04efd31030?source=github-profile-page)
 - [Blender rendering on vast.ai](https://medium.com/@yani/blender-rendering-on-vast-ai-b77a20d1847d?source=github-profile-page)
 - [Cost comparison between AWS CloudFront and BunnyCDN](https://medium.com/@yani/cost-comparison-between-aws-cloudfront-and-bunnycdn-24af8f26c5d5?source=github-profile-page)
