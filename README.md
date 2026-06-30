@@ -1,8 +1,8 @@
-# Yani Iliev — Building the infrastructure that moves WordPress
+# Yani Iliev
 
-I'm the CEO of [ServMask](https://servmask.com) and the creator of **[All-in-One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/)** — the backup and migration plugin trusted by **60M+ WordPress sites**, from solo bloggers to Boeing, NASA, IBM, Harvard, and Stanford.
+I'm the CEO of [ServMask](https://servmask.com) and the creator of **[All-in-One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/)**, the backup and migration plugin trusted by **60M+ WordPress sites**, from solo bloggers to Boeing, NASA, IBM, Harvard, and Stanford.
 
-For 15+ years I've built products at the intersection of **data portability, cloud infrastructure, and developer tools**. I started ServMask by writing the first version myself — code, support, hiring, finances — and grew it into infrastructure organizations rely on when downtime isn't an option. Bulgarian-born, Bangkok-based.
+For 15+ years I've built products at the intersection of **data portability, cloud infrastructure, and developer tools**. I started ServMask by writing the first version myself, including the code, support, hiring, and finances, then grew it into infrastructure organizations rely on when downtime isn't an option. Born in Bulgaria, based in Bangkok.
 
 When I'm not running ServMask, I ship small open-source tools that scratch my own itch and share what I learn along the way.
 
@@ -12,7 +12,7 @@ When I'm not running ServMask, I ship small open-source tools that scratch my ow
   A web-based tool that helps prepare source code for Large Language Models (LLMs) by combining multiple files into a single text file. Perfect for when you need to share your codebase with AI models like GPT-4, Claude, or Gemini.
 
 - **[Windows NFS Manager](https://github.com/yani-/windows-nfs-manager)**  
-  A simple GUI application for managing NFS drives on Windows. Mount, unmount, and monitor NFS shares with an intuitive interface - no command line needed.
+  A simple GUI application for managing NFS drives on Windows. Mount, unmount, and monitor NFS shares with an intuitive interface, no command line needed.
 
 - **[Before After](https://github.com/yani-/beforeafter)**  
   A browser-based tool for comparing and combining before/after images. No server needed, runs entirely in your browser.
@@ -34,4 +34,4 @@ When I'm not running ServMask, I ship small open-source tools that scratch my ow
 - 𝕏 [@YaniIliev](https://twitter.com/YaniIliev)
 - ✍️ [Medium](https://medium.com/@yani)
 
-Have a suggestion or just want to say hi? Open an issue on any repo — input is always welcome.
+Have a suggestion or just want to say hi? Open an issue on any repo. Input is always welcome.
