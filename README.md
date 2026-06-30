@@ -1,6 +1,10 @@
-# Open-source tools for everyone
+# Yani Iliev — Building the infrastructure that moves WordPress
 
-Welcome to my GitHub profile! Here, I share free, open source projects aimed at making life easier for developers and tech enthusiasts. Follow along to get notified about new tools and updates.
+I'm the CEO of [ServMask](https://servmask.com) and the creator of **[All-in-One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/)** — the backup and migration plugin trusted by **60M+ WordPress sites**, from solo bloggers to Boeing, NASA, IBM, Harvard, and Stanford.
+
+For 15+ years I've built products at the intersection of **data portability, cloud infrastructure, and developer tools**. I started ServMask by writing the first version myself — code, support, hiring, finances — and grew it into infrastructure organizations rely on when downtime isn't an option. Bulgarian-born, Bangkok-based.
+
+When I'm not running ServMask, I ship small open-source tools that scratch my own itch and share what I learn along the way.
 
 ## Projects
 
@@ -13,7 +17,7 @@ Welcome to my GitHub profile! Here, I share free, open source projects aimed at 
 - **[Before After](https://github.com/yani-/beforeafter)**  
   A browser-based tool for comparing and combining before/after images. No server needed, runs entirely in your browser.
 
-## Articles
+## Writing
 
 - [Running WordPress on Flux Cloud: A Candid Review](https://open.substack.com/pub/yani3380/p/running-wordpress-on-flux-cloud-a?r=1yq6y3&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 - [Setting up vast.ai for inference with Llama 2](https://medium.com/@yani/setting-up-vast-ai-for-inference-with-llama-2-f04efd31030?source=github-profile-page)
@@ -25,6 +29,9 @@ Welcome to my GitHub profile! Here, I share free, open source projects aimed at 
 
 ## Connect
 
-If you have suggestions, feedback, or just want to say hi, please open an issue or drop a comment in the repositories. Your input is always welcome!
+- 🌐 [yani.iliev.me](https://yani.iliev.me)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yaniiliev/)
+- 𝕏 [@YaniIliev](https://twitter.com/YaniIliev)
+- ✍️ [Medium](https://medium.com/@yani)
 
-Thanks for visiting, and happy coding!
+Have a suggestion or just want to say hi? Open an issue on any repo — input is always welcome.
